@@ -38,9 +38,13 @@ Requests==2.32.0
 File Structure
 
 main.py: Entry point of the application
+
 Rule/apriori.py: Implementation of the Apriori algorithm and GUI
+
 Rule/utils.py: Utility functions for data processing and association rule mining
+
 graphclustering/graphdraw.py: Functions for graph creation and visualization
+
 graphclustering/clustering.py: Implementation of graph clustering algorithms
 
 
@@ -48,10 +52,15 @@ graphclustering/clustering.py: Implementation of graph clustering algorithms
 Usage
 
 Run  to start the application.main.py
+
 In the GUI, set the minimum support and confidence values.
+
 Select a CSV file containing TCM prescription data when prompted.
+
 The application will process the data and generate association rules.
+
 Results will be displayed in the GUI and saved as CSV files in the  directory.data/out/
+
 Network graphs will be generated and saved in the  directory.graph/
 
 
@@ -59,6 +68,9 @@ Network graphs will be generated and saved in the  directory.graph/
 Output
 
 data/out/frequent_itemsets.csv: Contains frequent itemsets found in the data
+
 data/out/association_rules.csv: Contains generated association rules
+
 graph/non-directional_fully_connected_network_graph.png: Full network graph of TCM prescription relationships
+
 graph/subgraph_X.png: Subgraphs showing clusters of closely related TCM prescriptions
