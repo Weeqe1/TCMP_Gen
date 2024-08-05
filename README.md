@@ -10,14 +10,15 @@ Generation of network graphs and subgraphs based on association rules
 
 Requirements
 
-Python 3.x
+Python 3.9
 Required libraries:
 
-tkinter
-pandas
-numpy
-networkx
-matplotlib
+matplotlib==3.7.0
+networkx==3.0
+numpy==1.24.2
+pandas==1.5.3
+pypinyin==0.48.0
+Requests==2.32.0
 
 
 
