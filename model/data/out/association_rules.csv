@@ -1,0 +1,31 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence
+camphor,Mentha canadensis,0.29,0.53,0.27,0.9310344827586208
+Cinnabar,borneol,0.28,0.51,0.23,0.8214285714285714
+Eucalyptus oil,Mentha canadensis,0.23,0.53,0.22,0.9565217391304347
+Eucalyptus oil,camphor,0.23,0.29,0.2,0.8695652173913043
+Eucalyptus oil,"Mentha canadensis,camphor",0.23,0.27,0.19,0.8260869565217391
+"Eucalyptus oil,Mentha canadensis",camphor,0.22,0.29,0.19,0.8636363636363636
+"Eucalyptus oil,camphor",Mentha canadensis,0.2,0.53,0.19,0.95
+Methyl salicylate,Mentha canadensis,0.18,0.53,0.17,0.9444444444444445
+Methyl salicylate,camphor,0.18,0.29,0.16,0.888888888888889
+Methyl salicylate,"Mentha canadensis,camphor",0.18,0.27,0.15,0.8333333333333334
+"Mentha canadensis,Methyl salicylate",camphor,0.17,0.29,0.15,0.8823529411764705
+"Cinnamomum cassia,camphor",Mentha canadensis,0.16,0.53,0.14,0.8750000000000001
+"Methyl salicylate,camphor",Mentha canadensis,0.16,0.53,0.15,0.9375
+"Mentha canadensis,Syzygium aromaticum",Cinnamomum cassia,0.16,0.31,0.13,0.8125
+"Cinnamomum cassia,Syzygium aromaticum",Mentha canadensis,0.15,0.53,0.13,0.8666666666666667
+"Mentha canadensis,Methyl salicylate,camphor",Eucalyptus oil,0.15,0.23,0.12,0.8
+realgar,borneol,0.14,0.51,0.13,0.9285714285714285
+realgar,Cinnabar,0.14,0.28,0.12,0.857142857142857
+"Cinnamomum cassia,Eucalyptus oil",Mentha canadensis,0.13,0.53,0.12,0.923076923076923
+"Eucalyptus oil,Methyl salicylate",Mentha canadensis,0.13,0.53,0.13,1.0
+"Bezoar,Cinnabar",borneol,0.13,0.51,0.11,0.8461538461538461
+"Eucalyptus oil,Methyl salicylate",camphor,0.13,0.29,0.12,0.923076923076923
+"Eucalyptus oil,Mentha canadensis,Methyl salicylate",camphor,0.13,0.29,0.12,0.923076923076923
+"borneol,realgar",Cinnabar,0.13,0.28,0.11,0.8461538461538461
+"Eucalyptus oil,Methyl salicylate","Mentha canadensis,camphor",0.13,0.27,0.12,0.923076923076923
+"Eucalyptus oil,Methyl salicylate,camphor",Mentha canadensis,0.12,0.53,0.12,1.0
+"Cinnabar,realgar",borneol,0.12,0.51,0.11,0.9166666666666667
+Gardenia jasminoides,borneol,0.11,0.51,0.1,0.9090909090909092
+"Syzygium aromaticum,camphor",Mentha canadensis,0.1,0.53,0.1,1.0
+"Eucalyptus oil,Syzygium aromaticum",Mentha canadensis,0.1,0.53,0.1,1.0
